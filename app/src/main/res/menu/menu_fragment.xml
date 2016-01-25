@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_sort_by"
+        android:title="@string/action_sort_by"
+        app:showAsAction="ifRoom">
+        <menu>
+            <group >
+                <item android:id="@+id/action_sort_by_popular" android:title="@string/action_sort_by_popular" />
+                <item android:id="@+id/action_sort_by_highest" android:title="@string/action_sort_by_highest"/>
+                <item android:id="@+id/action_sort_by_favorite" android:title="@string/action_sort_by_favorites"/>
+            </group>
+        </menu>
+    </item>
+</menu>

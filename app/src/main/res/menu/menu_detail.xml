@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sanch.myapplication.DetailActivity">
+    <item android:id="@+id/action_title" android:title="@string/title_activity_detail"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

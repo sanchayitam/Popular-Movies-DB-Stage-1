@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sanch\AndroidStudioProjects\PopularMoviesDB\app\build\intermediates\exploded-aar\com.github.frankiesardo\linearlistview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d52b800eb529f69bd5c807142349fe0967df8c99">
+        <dex dex="C:\Users\sanch\AndroidStudioProjects\PopularMoviesDB\app\build\intermediates\pre-dexed\debug\classes-c6736092a17c63e18a4861e9411cebf9231c0d8b.jar" />
+    </item>
+
+</items>
